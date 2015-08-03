@@ -29,6 +29,7 @@
     {
       "size" : "40x40",
       "idiom" : "watch",
+      "filename" : "ios9-1.png",
       "scale" : "2x",
       "role" : "appLauncher",
       "subtype" : "38mm"
@@ -36,6 +37,7 @@
     {
       "size" : "44x44",
       "idiom" : "watch",
+      "filename" : "ios9.png",
       "scale" : "2x",
       "role" : "longLook",
       "subtype" : "42mm"
@@ -43,6 +45,7 @@
     {
       "size" : "86x86",
       "idiom" : "watch",
+      "filename" : "ios9-3.png",
       "scale" : "2x",
       "role" : "quickLook",
       "subtype" : "38mm"
@@ -50,6 +53,7 @@
     {
       "size" : "98x98",
       "idiom" : "watch",
+      "filename" : "ios9-2.png",
       "scale" : "2x",
       "role" : "quickLook",
       "subtype" : "42mm"
